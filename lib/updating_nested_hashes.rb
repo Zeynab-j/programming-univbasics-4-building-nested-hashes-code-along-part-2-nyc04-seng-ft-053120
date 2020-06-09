@@ -60,8 +60,8 @@ def add_characters
    # Code your solution here:
     epic_tragedy
     {
-      :name "Prince Escalus", 
-      :name "Apothecary"
+      :name=>"Prince Escalus",
+      :name=>"Apothecary"
     end
 
 
